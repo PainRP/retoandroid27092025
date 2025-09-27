@@ -80,8 +80,7 @@ Además, el enfoque en **vibecoding** (colaboración en pareja, consenso en prom
 
 ## 5. Capturas de Pantalla
 
-> **Nota:** Las imágenes se encuentran en la carpeta `/screenshots` del repositorio.  
-> - `screenshot_1.png`: Interfaz inicial básica (antes del rediseño).  
-> - `screenshot_2.png`: Interfaz final con diseño moderno (beige, cuadro blanco, botón estilizado).  
-> - `screenshot_3.png`: Ejemplo de frase cargada desde la API.  
-> - `screenshot_4.png`: Mensaje de error en caso de fallo de conexión.
+> **Nota:** Las imágenes se encuentran en la raíz del repositorio.  
+> - ![Interfaz Inicial](Captura%20de%20pantalla%202025-09-27%20113947.png)  
+> - ![Interfaz Final](Captura%20de%20pantalla%202025-09-27%20114010.png)  
+> - ![Frase Cargada](Captura%20de%20pantalla%202025-09-27%20115206.png)
